@@ -1,6 +1,6 @@
 {
-  "name": "oauth2orize-koa",
-  "version": "1.3.2",
+  "name": "oauth2orize-koa2",
+  "version": "1.3.4",
   "description": "OAuth 2.0 authorization server toolkit for Node.js.",
   "keywords": [
     "oauth",
@@ -10,18 +10,19 @@
     "authorization",
     "passport",
     "middleware",
-    "koa"
+    "koa",
+    "koa2"
   ],
   "author": {
-    "name": "James Sharp",
-    "email": "james@ortootech.com"
+    "name": "AlexeyKhristov",
+    "email": "sword.and.digit@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ortoo/oauth2orize.git"
+    "url": "git://github.com/AlexeyKhristov/oauth2orize-koa2.git"
   },
   "bugs": {
-    "url": "http://github.com/ortoo/oauth2orize/issues"
+    "url": "http://github.com/AlexeyKhristov/oauth2orize-koa2/issues"
   },
   "licenses": [
     {
